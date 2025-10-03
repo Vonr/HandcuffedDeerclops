@@ -1,0 +1,3 @@
+Expert+ Deerclops' Shadow Hands are widely considered unfair due to spawning in unavoidable places or times and contradicts the core gameplay of the boss fight by preventing the player from safely going in between Deerclops' legs to dodge its attacks.
+
+This mod solves the issue by (figuratively) handcuffing Deerclops, completely removing its ability to spawn Shadow Hands on Expert+.
