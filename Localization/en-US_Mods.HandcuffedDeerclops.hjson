@@ -1,1 +1,15 @@
+Configs: {
+	HandcuffedDeerclopsConfig: {
+		DisplayName: Handcuffed Deerclops Config
 
+		DisablePassiveHands: {
+			Label: Disable Periodic Shadow Hands
+			Tooltip: Disable the shadow hands periodically spawned in Expert+
+		}
+
+		DisableActiveHands: {
+			Label: Disable Hovering Shadow Hands
+			Tooltip: Disable the shadows hands that spawn when the player is above Deerclops for too long
+		}
+	}
+}
