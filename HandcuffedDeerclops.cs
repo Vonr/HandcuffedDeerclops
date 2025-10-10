@@ -25,8 +25,6 @@ namespace HandcuffedDeerclops
 
             IL_NPC.AI_123_Deerclops += (il) =>
             {
-                MonoModHooks.DumpIL(ModContent.GetInstance<HandcuffedDeerclops>(), il);
-
                 var c = new ILCursor(il);
 
                 var afterPassive = c.DefineLabel();
